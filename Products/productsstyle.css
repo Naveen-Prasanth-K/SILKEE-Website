@@ -1,0 +1,32 @@
+.navbar-nav .nav-item:hover {
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-item {
+    padding: 15px;
+    font-weight: bold;
+}
+
+.container-fluid .navbar-brand {
+    font-size: 20px;
+
+}
+
+.img-fluid:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.img-fluid {
+    padding: 0px 1px 5px 0px;
+}
+
+.btn {
+    margin: 20px 0px 10px 0px;
+}
+
+.col-md-9 {
+    height: 500px;
+    overflow-y: scroll;
+}

@@ -1,0 +1,34 @@
+.navbar-nav .nav-item:hover {
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-item {
+    padding: 15px;
+    font-weight: bold;
+}
+
+.container-fluid .navbar-brand {
+    font-size: 20px;
+
+}
+
+body>.container-fluid {
+    background-image: url(../Images/backgroundcontactus.jpg);
+}
+
+body>.contactimage {
+    float: left;
+
+}
+
+body>.formcard>.card {
+    width: 500px;
+    float: right;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    clear: both;
+}
